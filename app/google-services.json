@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529197930710",
+    "firebase_url": "https://uitrial-e5fb1.firebaseio.com",
+    "project_id": "uitrial-e5fb1",
+    "storage_bucket": "uitrial-e5fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529197930710:android:0e2b4c09d1369606",
+        "android_client_info": {
+          "package_name": "com.seekm.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529197930710-vdrbrunkvfqm3vu2jp094vc274olrhff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB139gIt9KQG1GHKXs45bSIP23Jrx4WLEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529197930710-vdrbrunkvfqm3vu2jp094vc274olrhff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
